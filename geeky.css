@@ -1,0 +1,65 @@
+body {
+  font-family: 'Carme';
+  font-size:22px;
+}
+
+h1 {
+  text-align: center;    
+  opacity: 0.8;
+}
+
+h3 {
+  text-align: center;
+  text-transform: capitalize;
+  opacity: 0.7;
+}
+
+.audio {
+  display: block;
+  margin: 0 auto;
+}
+
+.coding {
+  display: block;
+  margin: 0 auto;
+}
+
+.contact {
+  display: block;
+  margin: 0 auto;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.dave {
+  display: block;
+  margin: 0 auto;
+}
+
+.glasses {
+  display: block;
+  margin: 0 auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 10px 100px 10px 100px;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #43434B;
+}
+
+li {
+  float: initial;
+  text-align: center;
+}
+
+li a {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  width: 25%;
+}
